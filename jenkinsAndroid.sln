@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jenkinsAndroid", "jenkinsAndroid.csproj", "{3C2623B1-296E-437A-83E5-A953DB13313E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library", "..\Library\Library\Library.csproj", "{2D196C5F-5DF9-4C0C-9417-9B1A8F67770A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3C2623B1-296E-437A-83E5-A953DB13313E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C2623B1-296E-437A-83E5-A953DB13313E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C2623B1-296E-437A-83E5-A953DB13313E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D196C5F-5DF9-4C0C-9417-9B1A8F67770A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D196C5F-5DF9-4C0C-9417-9B1A8F67770A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D196C5F-5DF9-4C0C-9417-9B1A8F67770A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D196C5F-5DF9-4C0C-9417-9B1A8F67770A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
